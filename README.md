@@ -20,6 +20,21 @@ A collection of notes, guidelines, and resources for Single Page Applications
 * Safari / macOS
 * Safari / iOS
 
+If not supported: http://outdatedbrowser.com/en
+
+### Caching
+
+### Server Protocol
+* http 1.1
+* http 2
+* gzip
+
+### Optimizations
+* Raster images: https://imageoptim.com/mac
+* SVG: https://github.com/svg/svgo
+* JS: https://github.com/mishoo/UglifyJS
+* HTML / CSS: https://github.com/kangax/html-minifier
+
 ### Usability
 * Screen sizes
 * Touch events
@@ -35,6 +50,16 @@ A collection of notes, guidelines, and resources for Single Page Applications
 * Unit tests
 * e2e tests
 * Continuous test automation
+* ESLint: http://eslint.org/
+* HTML Linting: https://bitsofco.de/linting-html-using-css/
+* Lighthouse: https://developers.google.com/web/tools/lighthouse/
+* Mobile Friendly Test: https://search.google.com/search-console/mobile-friendly
+
+### Code Style
+* tabs: 2 spaces
+* line width: 200
+* JavaScript naming: camelCase
+* CSS naming: snake-case
 
 ### Error States
 
@@ -58,6 +83,8 @@ A collection of notes, guidelines, and resources for Single Page Applications
 * Paragraphs
 * Forms
 * Icons
+  * https://materialdesignicons.com
+  * http://ionicons.com/
 * Component state examples
 
 ### Color Scheme
@@ -68,6 +95,9 @@ A collection of notes, guidelines, and resources for Single Page Applications
 * Shades of grey
 
 ### Favicons
+* Image
+* Generator: http://realfavicongenerator.net
 
 ## Components
 * Atomic Design: https://shop.bradfrost.com/products/atomic-design-ebook
+* Pattern Lab: http://pattern-lab.info
