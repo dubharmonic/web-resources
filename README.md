@@ -51,13 +51,14 @@ If not supported: http://outdatedbrowser.com/en
 * e2e tests
 * Continuous test automation
 * ESLint: http://eslint.org/
+* ESLint Compatibility Plugin: https://github.com/amilajack/eslint-plugin-compat
 * HTML Linting: https://bitsofco.de/linting-html-using-css/
 * Lighthouse: https://developers.google.com/web/tools/lighthouse/
 * Mobile Friendly Test: https://search.google.com/search-console/mobile-friendly
 
 ### Code Style
-* tabs: 2 spaces
-* line width: 200
+* Indentation: 2 spaces
+* Max line width: 200
 * JavaScript naming: camelCase
 * CSS naming: snake-case
 
@@ -98,6 +99,12 @@ If not supported: http://outdatedbrowser.com/en
 * Image
 * Generator: http://realfavicongenerator.net
 
-## Components
+## Component Resources
 * Atomic Design: https://shop.bradfrost.com/products/atomic-design-ebook
 * Pattern Lab: http://pattern-lab.info
+* Carbon Design System: http://carbondesignsystem.com/
+* Material Design: https://material.io/
+* iOS Human Interface Guidelines: https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/
+* Boostrap: http://getbootstrap.com/
+* Foundation: http://foundation.zurb.com/
+
