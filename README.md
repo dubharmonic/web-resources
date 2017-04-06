@@ -84,8 +84,6 @@ If not supported: http://outdatedbrowser.com/en
 * Paragraphs
 * Forms
 * Icons
-  * https://materialdesignicons.com
-  * http://ionicons.com/
 * Component state examples
 
 ### Color Scheme
@@ -107,4 +105,5 @@ If not supported: http://outdatedbrowser.com/en
 * iOS Human Interface Guidelines: https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/
 * Boostrap: http://getbootstrap.com/
 * Foundation: http://foundation.zurb.com/
-
+* Material Icons: https://materialdesignicons.com
+* Ionic Icons: http://ionicons.com/
