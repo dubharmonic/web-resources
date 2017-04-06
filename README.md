@@ -3,6 +3,8 @@ A collection of notes, guidelines, and resources for Single Page Applications
 
 ## Requirements
 
+Feature requirements: https://css-tricks.com/writing-feature-requirements/
+
 ### Browser Support
 * IE6 / Windows
 * IE7 / Windows
@@ -61,6 +63,7 @@ If not supported: http://outdatedbrowser.com/en
 * Max line width: 200
 * JavaScript naming: camelCase
 * CSS naming: snake-case
+* CSS properties: alphabetized
 
 ### Error States
 
